@@ -22,6 +22,9 @@ Create a New Notebook on Google Colab, https://colab.google/
 Visual Studio Code (VSCode): A powerful and lightweight code editor that supports Python development with numerous extensions.
 Download VSCode, https://code.visualstudio.com/download
 
+PyCharm : PyCharm is a robust IDE developed by JetBrains specifically for Python development. It offers a rich set of features including code editing, debugging, testing, and version control.
+https://www.jetbrains.com/pycharm/download/
+
 Jupyter Notebooks via Anaconda: An open-source web application that allows you to create and share documents with live code, equations, visualizations, and narrative text. Ideal for data analysis and educational purposes. 
 Download Anaconda (which includes Jupyter Notebooks) https://www.anaconda.com/download
 After installation, you can launch Jupyter Notebooks from the Anaconda Navigator or by running jupyter notebook in your terminal.
