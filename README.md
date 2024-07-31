@@ -29,7 +29,7 @@ After installation, you can launch Jupyter Notebooks from the Anaconda Navigator
 To Install Jupyter alone, https://jupyter.org/install
 
 Tips for Beginners
-Set Up Your Environment: Make sure you have Python installed on your system. You can download it from the official Python website. Additionally, you may want to set up a virtual environment to manage dependencies for your projects.
+Set Up Your Environment: Make sure you have Python installed on your system. You can download it from the official Python website. Additionally, you may want to set up a virtual environment to manage dependencies for your projects. https://www.python.org/downloads/
 
 Read and Follow Documentation: Each project in this repository comes with its own README file or documentation. Be sure to read through these files to understand the purpose of the project and how to run it.
 
