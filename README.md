@@ -29,7 +29,7 @@ Jupyter Notebooks via Anaconda: An open-source web application that allows you t
 Download Anaconda (which includes Jupyter Notebooks) https://www.anaconda.com/download
 After installation, you can launch Jupyter Notebooks from the Anaconda Navigator or by running jupyter notebook in your terminal.
 
-To Install Jupyter alone, https://jupyter.org/install
+To Install Jupyter, https://jupyter.org/install
 
 Tips for Beginners
 Set Up Your Environment: Make sure you have Python installed on your system. You can download it from the official Python website. Additionally, you may want to set up a virtual environment to manage dependencies for your projects. https://www.python.org/downloads/
