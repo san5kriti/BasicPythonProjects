@@ -15,10 +15,19 @@ In this repository, you will find:
 Recommended IDEs
 As a beginner, you can use various IDEs (Integrated Development Environments) to work on these projects. Here are some recommendations:
 
-Google Colab: A web-based environment that allows you to create and run Jupyter notebooks directly in your browser. Ideal for working on Python projects and sharing notebooks easily.
-Create a New Notebook on Google Colab
+Google Colab: A web-based environment that allows you to create and run programs directly in your browser. Ideal for working on Python projects and sharing notebooks easily.
+Create a New Notebook on Google Colab, https://colab.google/
+
+
 Visual Studio Code (VSCode): A powerful and lightweight code editor that supports Python development with numerous extensions.
-Download VSCode
+Download VSCode, https://code.visualstudio.com/download
+
+Jupyter Notebooks via Anaconda: An open-source web application that allows you to create and share documents with live code, equations, visualizations, and narrative text. Ideal for data analysis and educational purposes. 
+Download Anaconda (which includes Jupyter Notebooks) https://www.anaconda.com/download
+After installation, you can launch Jupyter Notebooks from the Anaconda Navigator or by running jupyter notebook in your terminal.
+
+To Install Jupyter alone, https://jupyter.org/install
+
 Tips for Beginners
 Set Up Your Environment: Make sure you have Python installed on your system. You can download it from the official Python website. Additionally, you may want to set up a virtual environment to manage dependencies for your projects.
 
