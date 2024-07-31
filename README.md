@@ -1,4 +1,4 @@
-# PythonProjects(Beginners) 🌟
+# Easy Python Projects for Beginners 🌟
 
 Welcome to **PythonProjects**! This repository is a collection of simple and introductory Python projects designed to help beginners practice and enhance their coding skills. All projects are developed using Python, offering a range of exercises from basic list operations to more engaging applications like games and simple apps.
 
