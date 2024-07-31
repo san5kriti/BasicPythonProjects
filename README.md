@@ -6,7 +6,7 @@
 
 
 
- This repository is a collection of simple and introductory Python projects done in the year 2019 by myself, feel free to use any of them to practice/enhance your coding skills. All projects are developed using Python, offering a range of exercises from basic list operations to more engaging applications like games and simple apps.
+ This repository is a collection of simple and introductory Python projects done in the year 2022 by myself, feel free to use any of them to practice/enhance your coding skills. All projects are developed using Python, offering a range of exercises from basic list operations to more engaging applications like games and simple apps.
 
 ## Overview
 
