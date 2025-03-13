@@ -1,7 +1,9 @@
 # Beginners Python Projects 🌟
 
 
-![photo-1526379095098-d400fd0bf935](https://github.com/user-attachments/assets/5eb8daae-f9c4-48a1-8367-dc48692c9ca4)
+
+
+
 
 
 
@@ -68,4 +70,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 .
 
-above picture by hiteshchoudhary on Unsplash https://unsplash.com/@hiteshchoudhary
+
